@@ -1,0 +1,8 @@
+.header__swiper{
+    display: flex;
+    flex-direction: column;
+    width: 12px;
+    list-style-type: none;
+    position: absolute;
+    margin: 90px 0 0 0;
+}

@@ -1,0 +1,9 @@
+.rates__texts_subtitle{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    /* or 21px */
+    color: rgba(0, 0, 0, 0.7);
+}

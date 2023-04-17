@@ -1,0 +1,10 @@
+.gallery__textarea_text{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 130%;
+    /* or 22px */
+    color: rgba(0, 0, 0, 0.61);
+    margin: 0;
+}

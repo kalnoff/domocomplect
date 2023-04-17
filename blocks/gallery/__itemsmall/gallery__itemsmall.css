@@ -1,0 +1,8 @@
+.gallery__itemsmall{
+    max-width: 366px;
+    background: #FFFFFF;
+    border-radius: 9px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}

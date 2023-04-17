@@ -1,0 +1,16 @@
+.header__magazine{
+    margin-left: 68px;
+    font-family: 'Circe', 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 127%;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-bottom: 1px dashed #FFFFFF;
+    white-space: nowrap;
+}
+
+.header__magazine::after{
+    content: "\25BC";
+}

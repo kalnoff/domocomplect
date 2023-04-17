@@ -1,0 +1,10 @@
+.provider__title{
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 130%;
+    /* identical to box height, or 65px */
+    color: #000000;
+    margin: 0;
+}

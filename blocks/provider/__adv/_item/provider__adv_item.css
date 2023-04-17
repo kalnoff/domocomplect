@@ -1,0 +1,9 @@
+.provider__adv_item{
+    display: flex;
+    flex-direction: column;
+    margin: 0 70px 0 0;
+}
+
+.provider__adv_item:nth-last-child(1){
+    margin: 0;
+}

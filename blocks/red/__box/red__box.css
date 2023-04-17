@@ -1,0 +1,7 @@
+.red__box{
+    width: 1170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 0 25px 0;
+}

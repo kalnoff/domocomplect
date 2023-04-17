@@ -1,0 +1,11 @@
+.gallery__textarea_title{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    /* or 26px */
+    color: #000000;
+    margin: 10px 0 0 0;
+    width: fit-content;
+}

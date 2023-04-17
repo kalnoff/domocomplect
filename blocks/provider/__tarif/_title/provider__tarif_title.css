@@ -1,0 +1,11 @@
+.provider__tarif_title{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 133%;
+    /* or 53px */
+    text-align: center;
+    color: #FFFFFF;
+    padding: 47px 215px 58px 232px;
+}

@@ -1,0 +1,10 @@
+.red__item_text{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 160%;
+    /* identical to box height, or 48px */
+    color: #FFFFFF;
+    margin: 0;
+}

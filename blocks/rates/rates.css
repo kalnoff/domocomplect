@@ -1,0 +1,12 @@
+.rates{
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 160%;
+    /* identical to box height, or 80px */
+    color: #000000;
+    margin: 109px 0 0 0;
+    display: flex;
+    justify-content: center;
+}

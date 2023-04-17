@@ -1,0 +1,12 @@
+.provider__left_text{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130.5%;
+    /* or 31px */
+    color: rgba(0, 0, 0, 0.7);
+}

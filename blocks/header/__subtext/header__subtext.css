@@ -1,0 +1,6 @@
+.header__subtext{
+    display: flex;
+    flex-direction: column;
+    margin: 40px 0 0 0;
+    list-style-type: none;
+}

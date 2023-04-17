@@ -1,0 +1,10 @@
+.form{
+    display: flex;
+    justify-content: center;
+    background: #4C8FF5;
+    border-radius: 7px;
+    margin: 116px 0 0 0;
+    height: 258px;
+    align-items: center;
+    justify-content: space-around;
+}

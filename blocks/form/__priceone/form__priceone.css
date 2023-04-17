@@ -1,0 +1,9 @@
+.form__priceone{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 130.5%;
+    /* identical to box height, or 42px */
+    color: #FFFFFF;
+}

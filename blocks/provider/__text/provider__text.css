@@ -1,0 +1,10 @@
+.provider__text{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 130.5%;
+    /* or 30px */
+    color: rgba(0, 0, 0, 0.7);
+    margin: 38px 0 0 0;
+}

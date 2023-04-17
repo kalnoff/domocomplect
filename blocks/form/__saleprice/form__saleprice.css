@@ -1,0 +1,10 @@
+.form__saleprice{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130.5%;
+    /* identical to box height, or 21px */
+    text-decoration-line: line-through;
+    color: rgba(255, 255, 255, 0.8);
+}

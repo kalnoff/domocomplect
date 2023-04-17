@@ -1,0 +1,9 @@
+.header__adv_item{
+    display: flex;
+    margin: 0 94px 0 0;
+    flex-direction: column;
+}
+
+.header__adv_item:nth-child(4){
+    margin: 0;
+}

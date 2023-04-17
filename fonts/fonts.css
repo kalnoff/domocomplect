@@ -1,0 +1,220 @@
+@font-face {
+	font-family: 'AvenirNextCyr-Bold';
+	src: url('../fonts/fonts/avenirnextcyr-bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-bold.svg#avenirnextcyr-bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-BoldItalic';
+	src: url('../fonts/fonts/avenirnextcyr-bolditalic.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-bolditalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-bolditalic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-bolditalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-bolditalic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-bolditalic.svg#avenirnextcyr-bolditalic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-Demi';
+	src: url('../fonts/fonts/avenirnextcyr-demi.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-demi.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-demi.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-demi.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-demi.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-demi.svg#avenirnextcyr-demi') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-DemiItalic';
+	src: url('../fonts/fonts/avenirnextcyr-demiitalic.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-demiitalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-demiitalic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-demiitalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-demiitalic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-demiitalic.svg#avenirnextcyr-demiitalic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-Heavy';
+	src: url('../fonts/fonts/avenirnextcyr-heavy.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-heavy.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-heavy.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-heavy.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-heavy.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-heavy.svg#avenirnextcyr-heavy') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-HeavyItalic';
+	src: url('../fonts/fonts/avenirnextcyr-heavyitalic.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-heavyitalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-heavyitalic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-heavyitalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-heavyitalic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-heavyitalic.svg#avenirnextcyr-heavyitalic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-Italic';
+	src: url('../fonts/fonts/avenirnextcyr-italic.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-italic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-italic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-italic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-italic.svg#avenirnextcyr-italic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-Light';
+	src: url('../fonts/fonts/avenirnextcyr-light.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-light.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-light.svg#avenirnextcyr-light') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-LightItalic';
+	src: url('../fonts/fonts/avenirnextcyr-lightitalic.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-lightitalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-lightitalic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-lightitalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-lightitalic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-lightitalic.svg#avenirnextcyr-lightitalic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-Medium';
+	src: url('../fonts/fonts/avenirnextcyr-medium.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-medium.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-medium.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-medium.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-medium.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-medium.svg#avenirnextcyr-medium') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-MediumItalic';
+	src: url('../fonts/fonts/avenirnextcyr-mediumitalic.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-mediumitalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-mediumitalic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-mediumitalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-mediumitalic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-mediumitalic.svg#avenirnextcyr-mediumitalic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-Regular';
+	src: url('../fonts/fonts/avenirnextcyr-regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-regular.svg#avenirnextcyr-regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-Thin';
+	src: url('../fonts/fonts/avenirnextcyr-thin.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-thin.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-thin.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-thin.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-thin.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-thin.svg#avenirnextcyr-thin') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-ThinItalic';
+	src: url('../fonts/fonts/avenirnextcyr-thinitalic.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-thinitalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-thinitalic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-thinitalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-thinitalic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-thinitalic.svg#avenirnextcyr-thinitalic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-UltraLight';
+	src: url('../fonts/fonts/avenirnextcyr-ultralight.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-ultralight.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-ultralight.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-ultralight.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-ultralight.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-ultralight.svg#avenirnextcyr-ultralight') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'AvenirNextCyr-UltraLightIt';
+	src: url('../fonts/fonts/avenirnextcyr-ultralightit.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/avenirnextcyr-ultralightit.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/avenirnextcyr-ultralightit.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/avenirnextcyr-ultralightit.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/avenirnextcyr-ultralightit.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/avenirnextcyr-ultralightit.svg#avenirnextcyr-ultralightit') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Circe Bold';
+	src: url('../fonts/fonts/circe_bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/circe_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/circe_bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/circe_bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/circe_bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/circe_bold.svg#circe_bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Circe ExtraBold';
+	src: url('../fonts/fonts/circe_extrabold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/circe_extrabold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/circe_extrabold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/circe_extrabold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/circe_extrabold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/circe_extrabold.svg#circe_extrabold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Circe ExtraLight';
+	src: url('../fonts/fonts/circe_extralight.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/circe_extralight.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/circe_extralight.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/circe_extralight.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/circe_extralight.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/circe_extralight.svg#circe_extralight') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Circe Light';
+	src: url('../fonts/fonts/circe_light.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/circe_light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/circe_light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/circe_light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/circe_light.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/circe_light.svg#circe_light') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Circe';
+	src: url('../fonts/fonts/circe.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/circe.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/circe.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/circe.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/circe.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/circe.svg#circe') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Circe Thin';
+	src: url('../fonts/fonts/circe_thin.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/circe_thin.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/fonts/circe_thin.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/fonts/circe_thin.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/fonts/circe_thin.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/fonts/circe_thin.svg#circe_thin') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+

@@ -1,0 +1,10 @@
+.red__item_sectext{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+    color: #FFFFFF;
+    margin: 0;
+}

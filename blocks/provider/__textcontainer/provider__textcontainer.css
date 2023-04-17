@@ -1,0 +1,4 @@
+.provider__textcontainer{
+    display: flex;
+    flex-direction: column;
+}

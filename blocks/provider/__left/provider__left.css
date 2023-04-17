@@ -1,0 +1,6 @@
+.provider__left{
+   display: flex;
+   flex-direction: column;
+   margin: 0 264px 0 0;
+   width: 70%;
+}

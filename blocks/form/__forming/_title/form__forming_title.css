@@ -1,0 +1,10 @@
+.form__forming_title{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 130.5%;
+    /* identical to box height, or 50px */
+    color: #FFFFFF;
+    margin: 0;
+}

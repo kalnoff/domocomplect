@@ -1,0 +1,11 @@
+.top__subtext{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 130%;
+    /* or 30px */
+    text-align: center;
+    color: rgba(0, 0, 0, 0.61);
+    margin: 0;
+}

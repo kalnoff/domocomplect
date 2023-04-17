@@ -1,0 +1,10 @@
+.form__pricetext{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130.5%;
+    /* or 23px */
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.81);
+}

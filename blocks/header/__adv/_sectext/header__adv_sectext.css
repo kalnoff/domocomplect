@@ -1,0 +1,11 @@
+.header__adv_sectext{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+    /* or 26px */
+    color: #FFFFFF;
+    margin: 0;
+    white-space: nowrap;
+}

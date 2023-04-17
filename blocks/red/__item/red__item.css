@@ -1,0 +1,9 @@
+.red__item{
+    display: flex;
+    flex-direction: column;
+    margin: 0 152px 0 0;
+}
+
+.red__item:nth-child(2){
+    margin: 0;
+}

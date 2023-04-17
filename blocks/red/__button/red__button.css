@@ -1,0 +1,14 @@
+.red__button{
+    background-color: transparent;
+    border: 1px solid #FFFFFF;
+    margin: 0;
+    padding: 11px 43px 10px 46px;
+    border-radius: 7px;
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+    color: #FFFFFF;
+}

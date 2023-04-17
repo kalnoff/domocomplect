@@ -1,0 +1,10 @@
+.form__forming_subtitle{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 130.5%;
+    /* identical to box height, or 37px */
+    color: #FFFFFF;
+    margin: 0;
+}

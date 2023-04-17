@@ -1,0 +1,9 @@
+.gallery__itembig{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 65px;
+    max-width: 767px;
+    background: #FFFFFF;
+    border-radius: 9px;
+    grid-column: span 2;
+}

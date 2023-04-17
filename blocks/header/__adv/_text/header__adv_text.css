@@ -1,0 +1,11 @@
+.header__adv_text{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    /* or 22px */
+    color: rgba(255, 255, 255, 0.73);
+    margin: 0 0 4px 0;
+    text-transform: uppercase;
+}

@@ -1,0 +1,7 @@
+.red{
+    display: flex;
+    background: #EE543F;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}

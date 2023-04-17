@@ -1,0 +1,7 @@
+.gallery{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 95px 0 134px 0;
+    row-gap: 30px;
+    column-gap: 30px;
+}

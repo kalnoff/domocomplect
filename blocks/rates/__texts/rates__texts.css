@@ -1,0 +1,4 @@
+.rates__texts{
+    display: flex;
+    flex-direction: column;
+}

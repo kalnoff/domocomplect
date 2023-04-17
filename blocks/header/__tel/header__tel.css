@@ -1,0 +1,14 @@
+.header__tel{
+    font-family: 'Avenir Next Cyr';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    white-space: nowrap;
+}
+
+.header__tel::before{
+    content: url('/images/header/Phone.svg');
+    padding: 0 9.42px 0 0;
+}

@@ -1,0 +1,12 @@
+.link{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 144%;
+    color: #4C8FF5;
+    border-bottom: 1px solid #4C8FF5;
+    cursor: pointer;
+    width: fit-content;
+    margin: 0;
+}
