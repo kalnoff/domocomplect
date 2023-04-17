@@ -1,5 +1,5 @@
 .header__image{
-    background-image: url('/images/header/VillageImageBland.png');
+    background-image: url('../../../images/header/VillageImageBland.png');
     object-fit: cover;
     aspect-ratio: 2.2;
     position: relative;
