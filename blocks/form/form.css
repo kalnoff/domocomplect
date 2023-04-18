@@ -1,9 +1,5 @@
 .form{
-    display: flex;
-    justify-content: center;
     background: #4C8FF5;
     border-radius: 7px;
-    margin: 116px 0 0 0;
-    height: 258px;
-    justify-content: space-around;
+    margin: 116px 0 133px 0;
 }

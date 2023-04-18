@@ -1,0 +1,39 @@
+.input__text{
+    background: #4C8FF5;
+    border: 1px solid rgba(255, 255, 255, 0.74);
+    border-radius: 7px;
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 160%;
+    /* or 22px */
+    color: rgba(255, 255, 255, 0.6);
+    padding: 10px 16px 9px 20px;
+    box-sizing: border-box;
+}
+
+.input__text:focus{
+    outline: none;
+}
+
+.input__text:focus::plaсeholder{
+    color: transparent;
+    font-size: 54px;
+}
+
+:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+
+:focus::-moz-placeholder {
+    color: transparent;
+}
+
+:focus:-moz-placeholder {
+    color: transparent;
+}
+
+:focus:-ms-input-placeholder {
+    color: transparent;
+}

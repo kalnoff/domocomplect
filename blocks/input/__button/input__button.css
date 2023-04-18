@@ -1,0 +1,17 @@
+.input__button{
+    background: #EE543F;
+    border-radius: 7px;
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+    color: #FFFFFF;
+    padding: 8px 60px;
+}
+
+.input__button:hover{
+    cursor: pointer;
+    background: #F46A5B;
+}

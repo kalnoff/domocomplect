@@ -83,3 +83,7 @@
 @import url(../blocks/form/__forming/_top/form__forming_top.css);
 @import url(../blocks/form/__forming/_title/form__forming_title.css);
 @import url(../blocks/form/__forming/_subtitle/form__forming_subtitle.css);
+@import url(../blocks/form/__container/form__container.css);
+@import url(../blocks/input/__box/input__box.css);
+@import url(../blocks/input/__button/input__button.css);
+@import url(../blocks/input/__text/input__text.css);
