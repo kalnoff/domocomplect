@@ -1,0 +1,4 @@
+.question__bgcontainer{
+    display: flex;
+    flex-direction: column;
+}

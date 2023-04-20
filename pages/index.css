@@ -87,3 +87,8 @@
 @import url(../blocks/input/__box/input__box.css);
 @import url(../blocks/input/__button/input__button.css);
 @import url(../blocks/input/__text/input__text.css);
+@import url(../blocks/question/question.css);
+@import url(../blocks/question/__image/question__image.css);
+@import url(../blocks/question/__bgcontainer/question__bgcontainer.css);
+@import url(../blocks/question/__heading/question__heading.css);
+@import url(../blocks/question/__smcontainer/question__smcontainer.css);

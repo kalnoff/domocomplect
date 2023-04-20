@@ -1,0 +1,4 @@
+.question__smcontainer{
+    display: flex;
+    justify-content: space-between;
+}

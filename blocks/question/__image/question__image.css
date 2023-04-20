@@ -1,0 +1,17 @@
+.question__image{
+    background-image: url('../../../images/question/Rect.png');
+    aspect-ratio: 2.2;
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.question__image::before{
+    content: '';
+    background: rgba(76, 143, 245, 0.94);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
