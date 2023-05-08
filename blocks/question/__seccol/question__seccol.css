@@ -1,0 +1,6 @@
+.question__seccol{
+    display: flex;
+    background-color: white;
+    flex-wrap: wrap;
+    width: 30%;
+}

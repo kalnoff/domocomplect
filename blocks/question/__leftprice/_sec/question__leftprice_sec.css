@@ -1,0 +1,10 @@
+.question__leftprice_sec{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 116%;
+    /* identical to box height, or 65px */
+    color: #FFFFFF;
+    margin: 0;
+}

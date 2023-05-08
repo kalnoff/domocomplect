@@ -1,0 +1,9 @@
+.question__leftprice{
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 29px 0;
+}
+
+.question__leftprice:nth-child(){
+    margin: 0 0 82px 0;
+}

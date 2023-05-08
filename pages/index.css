@@ -92,3 +92,15 @@
 @import url(../blocks/question/__bgcontainer/question__bgcontainer.css);
 @import url(../blocks/question/__heading/question__heading.css);
 @import url(../blocks/question/__smcontainer/question__smcontainer.css);
+@import url(../blocks/question/__leftprice/question__leftprice.css);
+@import url(../blocks/question/__leftprice/_f/question__leftprice_f.css);
+@import url(../blocks/question/__leftprice/_sec/question__leftprice_sec.css);
+@import url(../blocks/question/__leftprice/_three/question__leftprice_three.css);
+@import url(../blocks/question/__leftprice/_sale/question__leftprice_sale.css);
+@import url(../blocks/question/__economy/question__economy.css);
+@import url(../blocks/question/__economy/_wrap/question__economy_wrap.css);
+@import url(../blocks/question/__firstcol/question__firstcol.css);
+@import url(../blocks/question/__seccol/question__seccol.css);
+@import url(../blocks/question/__form/question__form.css);
+@import url(../blocks/question/__threecol/question__threecol.css);
+@import url(../blocks/question/__threecol/_item/question__threecol_item.css);

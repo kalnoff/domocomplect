@@ -1,0 +1,11 @@
+.question__leftprice_f{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 116%;
+    /* identical to box height, or 14px */
+    color: rgba(255, 255, 255, 0.8);
+    margin: 0;
+    text-transform: uppercase;
+}

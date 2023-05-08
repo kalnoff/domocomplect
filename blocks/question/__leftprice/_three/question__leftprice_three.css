@@ -1,0 +1,10 @@
+.question__leftprice_three{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 116%;
+    /* or 23px */
+    text-decoration-line: line-through;
+    color: rgba(255, 255, 255, 0.8);
+}

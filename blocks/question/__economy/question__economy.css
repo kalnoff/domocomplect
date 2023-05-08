@@ -1,0 +1,12 @@
+.question__economy{
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.41);
+    border-radius: 7px;
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 116%;
+    /* identical to box height, or 21px */
+    color: #FFFFFF;
+}

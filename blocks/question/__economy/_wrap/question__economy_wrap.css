@@ -1,0 +1,4 @@
+.question__economy_wrap{
+    display: flex;
+    flex-wrap: wrap;
+}

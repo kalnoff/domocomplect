@@ -1,0 +1,14 @@
+.question__leftprice_sale{
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 124%;
+    /* identical to box height, or 19px */
+    background-color: #4BCF84;;
+    color: #FFFFFF;
+    margin: 3px 0 0 0;
+    padding: 3px 7px 2px 7px;
+    text-align: center;
+    width: 76%;
+}
